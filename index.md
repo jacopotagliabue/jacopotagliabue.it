@@ -34,7 +34,7 @@ Some time before [Brad Pitt's movie](https://en.wikipedia.org/wiki/Moneyball_(fi
 
 The content of _jacopotagliabue.it_ are released under the [BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/); my chibi has been designed by the incredibly talented [wisesnail](https://www.instagram.com/wisesnail/?hl=en). 
 
-Last update: May 2024. 
+Last update: July 2024. 
 
 ## Appendix
 
@@ -42,9 +42,9 @@ Quick links to some _selected_ projects, talks, papers, datasets.
 
 ### Open source projects
 
+* [FashionCLIP](https://huggingface.co/patrickjohncyh/fashion-clip) is a fashion-aware model based on CLIP. As the first ever industry-aware CLIP model, FashionCLIP spawned an [open source repo](https://github.com/patrickjohncyh/fashion-clip), two papers ([Nat. Sci. Rep.](https://www.nature.com/articles/s41598-022-23052-9) and [ACL](https://aclanthology.org/2022.ecnlp-1.22/)), and a popular [HuggingFace release](https://huggingface.co/patrickjohncyh/fashion-clip), with more than 10 million downloads in the first few months. 
+* "[You don't need a bigger boat](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat)" is an introduction to modern ML pipelines at the Reasonable Scale, first presented at the [Stanford MLSys Lectures](https://www.youtube.com/watch?v=Ndxpo4PeEms) in 2021.
 * [RecList](http://reclist.io/) is a testing library for recommender systems: RecList spawned a sponsored [open source package](https://github.com/jacopotagliabue/reclist), a [competition](https://reclist.io/cikm2022-cup/), an open source [hackathon](https://github.com/RecList/evalRS-KDD-2023), a [white paper on evaluation](https://arxiv.org/pdf/2304.10621.pdf) and three articles ([WWW](https://dl.acm.org/doi/abs/10.1145/3487553.3524215), [Nature Machine Intelligence](https://www.nature.com/articles/s42256-022-00606-0), [CIKM](https://ceur-ws.org/Vol-3318/keynote3.pdf)).
-* [FashionCLIP](https://huggingface.co/patrickjohncyh/fashion-clip) is a fashion-aware model based on CLIP. As the first ever industry-aware CLIP model, FashionCLIP spawned an [open source repo](https://github.com/patrickjohncyh/fashion-clip), two papers ([Nat. Sci. Rep.](https://www.nature.com/articles/s41598-022-23052-9) and [ACL](https://aclanthology.org/2022.ecnlp-1.22/)), and a popular [HuggingFace release](https://huggingface.co/patrickjohncyh/fashion-clip), with more than three million downloads in the first few months. 
-* "[You don't need a bigger boat](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat)" is an introduction to modern pipelines at the Reasonable Scale, first presented at the [Stanford MLSys Lectures](https://www.youtube.com/watch?v=Ndxpo4PeEms) in 2021.
 
 ### Talks
 
