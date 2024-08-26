@@ -18,7 +18,7 @@ I recently started investing in tech startups, both directly and as LP in AI fun
 
 Most of my research sits at the intersection of language, learning and retrieval, with a recent drift towards [data](https://arxiv.org/pdf/2404.13682) [systems](https://arxiv.org/abs/2308.05368).
 
-I have been co-organizer of SIGIR eCom (2022, 2023) and EvalRS (2022, 2023), Industry Sponsorship Chair for CIKM 2022, and I have been involved in various capacities in many top-tier events (COLING, EMNLP, ACL, SIRIP, ECONLP, ECNLP). My work has been presented in venues such as [NAACL](https://aclanthology.org/2021.naacl-main.348/), [ICML](https://arxiv.org/abs/2402.05863), [WWW](https://arxiv.org/abs/2111.09963), [RecSys](https://dl.acm.org/doi/10.1145/3383313.3411477) and [Nature journals](https://www.nature.com/articles/s41598-022-23052-9): our paper on [cognitively-inspired query embeddings](https://aclanthology.org/2021.naacl-industry.20/) won the Best Paper Award at NAACL 21.
+I have been co-organizer of SIGIR eCom (2022, 2023) and EvalRS (2022, 2023), Industry Sponsorship Chair for CIKM 2022, and I have been involved in various capacities in many top-tier events (COLING, EMNLP, ACL, SIRIP, ECONLP, ECNLP). My work has been presented in venues such as [NAACL](https://aclanthology.org/2021.naacl-main.348/), [ICML](https://arxiv.org/abs/2402.05863), [WWW](https://arxiv.org/abs/2111.09963), [RecSys](https://dl.acm.org/doi/10.1145/3383313.3411477), [DEEM@SIGMOD](https://dl.acm.org/doi/abs/10.1145/3650203.3663335) and [Nature journals](https://www.nature.com/articles/s41598-022-23052-9): our paper on [cognitively-inspired query embeddings](https://aclanthology.org/2021.naacl-industry.20/) won the Best Paper Award at NAACL 21.
 
 As a true [SFI alumnus](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), I am an old-fashioned generalist, and I gave tiny contributions to other fields mostly as a way to spend time with old friends: [logic and computation](https://academic.oup.com/logcom/article-abstract/32/6/1129/6548838?redirectedFrom=fulltext), [cellular automata](https://philpapers.org/archive/BERTPO-77.pdf), computational social sciences, [human-machine computation](https://www.humancomputation.com/2019/assets/papers/113.pdf), [networks](https://appliednetsci.springeropen.com/articles/10.1007/s41109-017-0029-0), [philosophy of mind](https://link.springer.com/article/10.1007/s11023-013-9332-4), [political science](https://www.tandfonline.com/doi/full/10.1080/23248823.2023.2175124), [digital ethics](https://link.springer.com/article/10.1007/s11023-023-09644-y).
 
@@ -57,7 +57,7 @@ Quick links to some _selected_ projects, talks, papers, datasets.
 
 ### Papers
 
-* [Reproducible data science over data lakes](https://arxiv.org/pdf/2404.13682) (DEEM@SIGMOD 2024)
+* [Reproducible data science over data lakes](https://dl.acm.org/doi/abs/10.1145/3650203.3663335) (DEEM@SIGMOD 2024)
 * [Building a serverless Data Lakehouse from spare parts](https://arxiv.org/pdf/2308.05368.pdf) (CDMS@VLDB 2023)
 * [A challenge for rounded evaluation of recommender systems](https://www.nature.com/articles/s42256-022-00606-0) (Nat. Mach. Int. 2023)
 * [Contrastive language and vision learning of general fashion concepts](https://www.nature.com/articles/s41598-022-23052-9) (Nat. Sci. Rep. 2022)
