@@ -57,7 +57,7 @@ Quick links to some _selected_ projects, talks, papers, datasets.
 
 ### Papers
 
-* [Bauplan: Zero-Copy, Scale-Up FaaS for Data Pipelines](WoSC@Middleware 2024) 
+* [Bauplan: Zero-Copy, Scale-Up FaaS for Data Pipelines](https://arxiv.org/pdf/2410.17465) (WoSC@Middleware 2024) 
 * [Reproducible data science over data lakes](https://dl.acm.org/doi/abs/10.1145/3650203.3663335) (DEEM@SIGMOD 2024)
 * [Building a serverless Data Lakehouse from spare parts](https://arxiv.org/pdf/2308.05368.pdf) (CDMS@VLDB 2023)
 * [A challenge for rounded evaluation of recommender systems](https://www.nature.com/articles/s42256-022-00606-0) (Nat. Mach. Int. 2023)
