@@ -16,7 +16,7 @@ I recently started investing in tech startups, both directly and as LP in AI fun
 
 ### Research-y stuff
 
-Thanks to fantastic teammates, I have done product-minded research in a (perhaps surprisingly) heterogenous set of of topics: Information Retrieval (e.g. [RecSys](https://dl.acm.org/doi/10.1145/3383313.3411477), [SIGIR](https://arxiv.org/abs/2107.03256)), evaluation ([WWW](https://arxiv.org/abs/2111.09963), [NeurIps](https://arxiv.org/abs/2110.13601), [Nat. Mach. Int.](https://www.nature.com/articles/s42256-022-00606-0)), NLP ([NAACL](https://aclanthology.org/2021.naacl-main.348/), [ACL](https://aclanthology.org/2020.ecnlp-1.2/)), data science ([Nat. Sci. Rep.](https://www.nature.com/articles/s41598-022-23052-9), [KDD](https://arxiv.org/pdf/1907.00400)), Large Language Models ([ICML](https://arxiv.org/abs/2402.05863)), data management ([SIGMOD](https://dl.acm.org/doi/abs/10.1145/3650203.3663335), [VLDB](https://arxiv.org/abs/2308.05368)), human-machine computation ([HCOMP](https://www.humancomputation.com/2019/assets/papers/113.pdf)), computer systems ([WoSC 10](https://arxiv.org/pdf/2410.17465)).
+Thanks to fantastic teammates, I have done product-minded research in a (perhaps surprisingly) heterogenous set of of topics: Information Retrieval (e.g. [RecSys](https://dl.acm.org/doi/10.1145/3383313.3411477), [SIGIR](https://arxiv.org/abs/2107.03256)), evaluation ([WWW](https://arxiv.org/abs/2111.09963), [NeurIps](https://arxiv.org/abs/2110.13601), [Nat. Mach. Int.](https://www.nature.com/articles/s42256-022-00606-0)), NLP ([NAACL](https://aclanthology.org/2021.naacl-main.348/), [ACL](https://aclanthology.org/2020.ecnlp-1.2/)), data science ([Nat. Sci. Rep.](https://www.nature.com/articles/s41598-022-23052-9), [KDD](https://arxiv.org/pdf/1907.00400)), Large Language Models ([ICML](https://arxiv.org/abs/2402.05863)), data management ([SIGMOD](https://dl.acm.org/doi/abs/10.1145/3650203.3663335), [VLDB](https://arxiv.org/abs/2308.05368), [Big Data](https://arxiv.org/pdf/2411.08203)), human-machine computation ([HCOMP](https://www.humancomputation.com/2019/assets/papers/113.pdf)), computer systems ([WoSC 10](https://arxiv.org/pdf/2410.17465)).
 
 I have been co-organizer of SIGIR eCom (2022, 2023) and EvalRS (2022, 2023), Industry Sponsorship Chair for CIKM 2022, and I have been involved in various organizational capacities in many top-tier events (COLING, EMNLP, ACL, SIRIP, ECONLP, ECNLP). Our paper on [cognitively-inspired query embeddings](https://aclanthology.org/2021.naacl-industry.20/) won the Best Paper Award at NAACL 21.
 
@@ -57,6 +57,7 @@ Quick links to some _selected_ projects, talks, papers, datasets.
 
 ### Papers
 
+* [FaaS and Furious: abstractions and differential caching for efficient data pre-processing](https://arxiv.org/pdf/2411.08203) (IEEE Big Data 2024)
 * [Bauplan: Zero-Copy, Scale-Up FaaS for Data Pipelines](https://arxiv.org/pdf/2410.17465) (WoSC@Middleware 2024) 
 * [Reproducible data science over data lakes](https://dl.acm.org/doi/abs/10.1145/3650203.3663335) (DEEM@SIGMOD 2024)
 * [Building a serverless Data Lakehouse from spare parts](https://arxiv.org/pdf/2308.05368.pdf) (CDMS@VLDB 2023)
