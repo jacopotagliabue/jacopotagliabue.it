@@ -1,4 +1,4 @@
-## My name is Apo and I'm a mighty pirate
+## TL;DR
 
 Educated in several acronyms across the globe (UNISR, [SFI](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), MIT), I was co-founder and CTO of Tooso, an [AI startup](https://www.gartner.com/en/documents/3913700/cool-vendors-in-digital-commerce) in San Francisco providing search results and product recommendations to millions of users, before being acquired by [TSX:CVO](https://www.coveo.com/en/company/news-releases/2019/coveo-acquires-tooso).
 
