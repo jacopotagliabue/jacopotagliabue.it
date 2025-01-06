@@ -1,8 +1,10 @@
 ## My name is Apo and I'm a mighty pirate
 
-Educated in several acronyms across the globe (UNISR, [SFI](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), MIT), I was co-founder and CTO of Tooso, an [AI startup](https://www.gartner.com/en/documents/3913700/cool-vendors-in-digital-commerce) in San Francisco acquired by [TSX:CVO](https://www.coveo.com/en/company/news-releases/2019/coveo-acquires-tooso).
+Educated in several acronyms across the globe (UNISR, [SFI](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), MIT), I was co-founder and CTO of Tooso, an [AI startup](https://www.gartner.com/en/documents/3913700/cool-vendors-in-digital-commerce) in San Francisco providing search results and product recommendations to millions of users, before being acquired by [TSX:CVO](https://www.coveo.com/en/company/news-releases/2019/coveo-acquires-tooso).
 
-I led Coveo's AI and MLOps roadmap from scale-up to IPO, and built out Coveo Labs, an [applied R&D practice](https://medium.com/the-techlife/applied-research-at-reasonable-scale-8a74d2beed89) rooted in collaboration (e.g. [Stanford](https://www.nature.com/articles/s41598-022-23052-9), [Netflix](https://arxiv.org/pdf/2303.11761.pdf), [Farfetch](https://aclanthology.org/2022.ecnlp-1.22/), [NVIDIA](https://rdcu.be/c4dXy)), [open source](https://github.com/jacopotagliabue) and [open science](https://github.com/coveooss/SIGIR-ecom-data-challenge) - our libraries, models and datasets have collected thousands of stars, raised tens of thousands of USD in donations, and garnered millions of downloads. 
+I led Coveo's AI from scale-up to IPO, and built out _Coveo Labs_, an [applied R&D practice](https://medium.com/the-techlife/applied-research-at-reasonable-scale-8a74d2beed89) rooted in open science: our libraries, models and datasets have collected thousands of stars, raised tens of thousands of dollars in donations, and garnered millions of downloads. 
+
+Through my own entrepreneurial journey and constant collaboration with industry (e.g. [Netflix](https://arxiv.org/pdf/2303.11761.pdf), [Farfetch](https://aclanthology.org/2022.ecnlp-1.22/), [NVIDIA](https://rdcu.be/c4dXy)) and academia ([Stanford](https://www.nature.com/articles/s41598-022-23052-9), I have been fortunate to work on cutting-edge problems at the intersection of multiple fields: Data Science, Artificial Intelligence, Data Management, Computer Systems, just to name a few. My [papers](#research) are usually characterized by a keen product eye, and are mostly memorable for their titles ("Not all those who browse are lost", "You don't need a bigger boat", "Mo' models, mo' problems", "Faas and Furious").
 
 While building my new startup, [Bauplan](https://www.bauplanlabs.com/), I moonlight as [Adj. Professor of ML at NYU](https://github.com/jacopotagliabue/MLSys-NYU-2022), which is mostly notable because it is the only job I ever had that my parents understand.
 
@@ -10,17 +12,17 @@ While building my new startup, [Bauplan](https://www.bauplanlabs.com/), I moonli
 
 I occasionally share [code](https://github.com/jacopotagliabue), [ideas](https://scholar.google.com/citations?user=NDX19U0AAAAJ&hl=en) and [teaching materials](https://github.com/jacopotagliabue/MLSys-NYU-2022); if you have no intention of selling me anything, you can also try me on [Linkedin](https://www.linkedin.com/in/jacopotagliabue/).
 
-I talk _a lot_, and I'm sometimes invited to do so by friends in industry (e.g. talks at Home Depot, Farfetch, eBay, Pinterest) and research (e.g. keynotes at [KDD](public/ADKDD_talk_Aug_2023.pdf), [SIRIP](public/SIRIP_2023_keynote.pdf), [RecSys](https://orsum.inesctec.pt/orsum2023/keynote.php), [CiE](public/are_we_there_yet.pdf)): some of my talks and papers are highlighted [at the end of this page](#appendix).
+I often get invited to talk about things I (sort of) know by friends in industry (e.g. Home Depot, Farfetch, eBay, Pinterest) and academia (e.g. keynotes at [KDD](public/ADKDD_talk_Aug_2023.pdf), [SIRIP](public/SIRIP_2023_keynote.pdf), [RecSys](https://orsum.inesctec.pt/orsum2023/keynote.php), [CiE](public/are_we_there_yet.pdf)): some of my work is highlighted [below](#appendix).
 
-I recently started investing in tech startups, both directly and as LP in AI funds: I’m always happy to chat with founders about DataOps, MLOps and AI.
+I recently started investing in startups, both directly and as LP in AI funds: I’m always happy to chat with founders about DataOps, MLOps and AI.
 
-### Research-y stuff
+### Research
 
-Thanks to fantastic teammates, I have done product-minded research in a (perhaps surprisingly) heterogenous set of of topics: Information Retrieval (e.g. [RecSys](https://dl.acm.org/doi/10.1145/3383313.3411477), [SIGIR](https://arxiv.org/abs/2107.03256)), Machine Learning and model evaluation ([WWW](https://arxiv.org/abs/2111.09963), [NeurIps](https://arxiv.org/abs/2110.13601), [Nat. Mach. Int.](https://www.nature.com/articles/s42256-022-00606-0)), NLP ([NAACL](https://aclanthology.org/2021.naacl-main.348/), [ACL](https://aclanthology.org/2020.ecnlp-1.2/)), data science ([Nat. Sci. Rep.](https://www.nature.com/articles/s41598-022-23052-9), [KDD](https://arxiv.org/pdf/1907.00400)), AI and Large Language Models ([ICML](https://arxiv.org/abs/2402.05863)), data management ([SIGMOD](https://dl.acm.org/doi/abs/10.1145/3650203.3663335), [VLDB](https://arxiv.org/abs/2308.05368), [Big Data](https://arxiv.org/pdf/2411.08203)), human-machine computation ([HCOMP](https://www.humancomputation.com/2019/assets/papers/113.pdf)), computer systems ([WoSC 10](https://arxiv.org/pdf/2410.17465)). Our paper on [cognitively-inspired query embeddings](https://aclanthology.org/2021.naacl-industry.20/) won the Best Paper Award at NAACL 21.
+I have done product-minded research in a (perhaps surprisingly) heterogenous set of of topics: Information Retrieval (e.g. [RecSys](https://dl.acm.org/doi/10.1145/3383313.3411477), [SIGIR](https://arxiv.org/abs/2107.03256)), Machine Learning and model evaluation ([WWW](https://arxiv.org/abs/2111.09963), [NeurIps](https://arxiv.org/abs/2110.13601), [Nat. Mach. Int.](https://www.nature.com/articles/s42256-022-00606-0)), NLP ([NAACL](https://aclanthology.org/2021.naacl-main.348/), [ACL](https://aclanthology.org/2020.ecnlp-1.2/)), data science ([Nat. Sci. Rep.](https://www.nature.com/articles/s41598-022-23052-9), [KDD](https://arxiv.org/pdf/1907.00400)), AI and Large Language Models ([ICML](https://arxiv.org/abs/2402.05863)), data management ([SIGMOD](https://dl.acm.org/doi/abs/10.1145/3650203.3663335), [VLDB](https://arxiv.org/abs/2308.05368), [Big Data](https://arxiv.org/pdf/2411.08203)), human-machine computation ([HCOMP](https://www.humancomputation.com/2019/assets/papers/113.pdf)), computer systems ([WoSC 10](https://arxiv.org/pdf/2410.17465)). Our paper on [cognitively-inspired query embeddings](https://aclanthology.org/2021.naacl-industry.20/) won the Best Paper Award at NAACL 21, and our talk on [reproducible data science on data lakes](https://dl.acm.org/doi/10.1145/3650203.3663335) won Best Presentation Award at DEEM 24.
 
 I have been co-organizer of SIGIR eCom (2022, 2023) and EvalRS (2022, 2023), Industry Sponsorship Chair for CIKM 2022, Industry Chair at UMAP (2025), and I have been involved in various organizational capacities in several top-tier events (COLING, EMNLP, ACL, SIRIP, ECONLP, ECNLP). 
 
-As a true [SFI alumnus](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), I am an old-fashioned generalist, and I gave tiny contributions to other fields mostly as an excuse to spend time with old friends: [logic and computation](https://academic.oup.com/logcom/article-abstract/32/6/1129/6548838?redirectedFrom=fulltext), [cellular automata](https://philpapers.org/archive/BERTPO-77.pdf), computational social sciences, [networks](https://appliednetsci.springeropen.com/articles/10.1007/s41109-017-0029-0), [philosophy of mind](https://link.springer.com/article/10.1007/s11023-013-9332-4), [political science](https://www.tandfonline.com/doi/full/10.1080/23248823.2023.2175124), [digital ethics](https://link.springer.com/article/10.1007/s11023-023-09644-y).
+As a true Santa Fe Institute alumnus, I am an old-fashioned generalist, and I gave tiny contributions to other fields mostly as an excuse to spend time with old friends: [logic and computation](https://academic.oup.com/logcom/article-abstract/32/6/1129/6548838?redirectedFrom=fulltext), [cellular automata](https://philpapers.org/archive/BERTPO-77.pdf), computational social sciences, [networks](https://appliednetsci.springeropen.com/articles/10.1007/s41109-017-0029-0), [philosophy of mind](https://link.springer.com/article/10.1007/s11023-013-9332-4), [political science](https://www.tandfonline.com/doi/full/10.1080/23248823.2023.2175124), [digital ethics](https://link.springer.com/article/10.1007/s11023-023-09644-y).
 
 ## Old stuff
 
@@ -38,13 +40,13 @@ Last update: December 2024.
 
 ## Appendix
 
-Quick links to some _selected_ projects, talks, papers, datasets.
+Quick links to _selected_ projects, talks, papers, datasets.
 
 ### Open source projects
 
 * [FashionCLIP](https://huggingface.co/patrickjohncyh/fashion-clip) is a fashion-aware model based on CLIP. As the first ever industry-aware CLIP model, FashionCLIP spawned an [open source repo](https://github.com/patrickjohncyh/fashion-clip), two papers ([Nat. Sci. Rep.](https://www.nature.com/articles/s41598-022-23052-9) and [ACL](https://aclanthology.org/2022.ecnlp-1.22/)), and a popular [HuggingFace release](https://huggingface.co/patrickjohncyh/fashion-clip), with more than 10 million downloads in the first few months. 
 * "[You don't need a bigger boat](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat)" is an introduction to modern ML pipelines at the Reasonable Scale, first presented at the [Stanford MLSys Lectures](https://www.youtube.com/watch?v=Ndxpo4PeEms) in 2021.
-* [RecList](http://reclist.io/) is a testing library for recommender systems: RecList spawned a sponsored [open source package](https://github.com/jacopotagliabue/reclist), a [competition](https://reclist.io/cikm2022-cup/), an open source [hackathon](https://github.com/RecList/evalRS-KDD-2023), a [white paper on evaluation](https://arxiv.org/pdf/2304.10621.pdf) and three articles ([WWW](https://dl.acm.org/doi/abs/10.1145/3487553.3524215), [Nature Machine Intelligence](https://www.nature.com/articles/s42256-022-00606-0), [CIKM](https://ceur-ws.org/Vol-3318/keynote3.pdf)). RecList collected more than 30k (USD) in donations as an open-source project. 
+* [RecList](http://reclist.io/) is a testing library for recommender systems: RecList spawned a sponsored [open source package](https://github.com/jacopotagliabue/reclist), a [competition](https://reclist.io/cikm2022-cup/), an open source [hackathon](https://github.com/RecList/evalRS-KDD-2023), a [white paper on evaluation](https://arxiv.org/pdf/2304.10621.pdf) and three articles ([WWW](https://dl.acm.org/doi/abs/10.1145/3487553.3524215), [Nature Machine Intelligence](https://www.nature.com/articles/s42256-022-00606-0), [CIKM](https://ceur-ws.org/Vol-3318/keynote3.pdf)). RecList collected tens of thousands of dollars in donations as an open-source project. 
 
 ### Talks
 
@@ -59,13 +61,11 @@ Quick links to some _selected_ projects, talks, papers, datasets.
 
 * [FaaS and Furious: abstractions and differential caching for efficient data pre-processing](https://arxiv.org/pdf/2411.08203) (IEEE Big Data 2024)
 * [Bauplan: Zero-Copy, Scale-Up FaaS for Data Pipelines](https://arxiv.org/pdf/2410.17465) (WoSC@Middleware 2024) 
-* [Reproducible data science over data lakes](https://dl.acm.org/doi/abs/10.1145/3650203.3663335) (DEEM@SIGMOD 2024)
-* [Building a serverless Data Lakehouse from spare parts](https://arxiv.org/pdf/2308.05368.pdf) (CDMS@VLDB 2023)
+* [Reproducible data science over data lakes](https://dl.acm.org/doi/abs/10.1145/3650203.3663335) (DEEM@SIGMOD 2024, Best Presentation Award)
 * [A challenge for rounded evaluation of recommender systems](https://www.nature.com/articles/s42256-022-00606-0) (Nat. Mach. Int. 2023)
 * [Contrastive language and vision learning of general fashion concepts](https://www.nature.com/articles/s41598-022-23052-9) (Nat. Sci. Rep. 2022)
 * [You Do Not Need a Bigger Boat: Recommendations at Reasonable Scale in a (Mostly) Serverless and Open Stack](https://dl.acm.org/doi/abs/10.1145/3460231.3474604) (RecSys 2021)
 * [Query2Prod2Vec: Grounded Word Embeddings for eCommerce](https://aclanthology.org/2021.naacl-industry.20/) (NAACL 2021, Best Paper Award)
-* [Language in a (Search) Box: Grounding Language Learning in Real-World Human-Machine Interaction](https://aclanthology.org/2021.naacl-main.348/) (NAACL 2021)
 * [Cellular Automata](https://plato.stanford.edu/entries/cellular-automata/) (SEP 2017) 
 * [There’s Plenty of Boole at the Bottom: A Reversible CA Against Information Entropy](https://philpapers.org/archive/BERTPO-77.pdf) (Minds & Machines 2016)
 
